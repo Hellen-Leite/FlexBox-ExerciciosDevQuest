@@ -1,0 +1,6 @@
+@media (max-width:1352px){ 
+    .pinturas{
+        max-width: 900px; /*quando a largura máxima total da tela for 1440px, a section .pinturas vai ter uma largura de 900px*/
+        margin: 30px 0;
+    }
+}

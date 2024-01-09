@@ -1,0 +1,27 @@
+@media(max-width:845px){
+    .menu{
+        flex-direction: column;
+    }
+    .logo h1{
+        font-size: 4rem;
+    }
+    .lista{
+        flex-direction: column;
+        margin-top:50px;
+     
+    }
+    .lista li{
+        padding: 33px 0;
+    }
+    .lista li:last-child{
+        margin-top: 2rem;
+    }
+    .lista li a{
+        font-size: 4rem;
+        padding: 17px 40px;
+    }
+    .lista li.botao a{
+        font-size: 1.8rem;
+        padding: 15px 23px;
+    }
+}
